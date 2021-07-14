@@ -5,3 +5,5 @@ A real time visualization of 6 sorting algorithms namely- Bubble Sort, Heap Sort
 
 To run this, simply install Visual Studio and add glut.h file to path and run source.cpp
 
+To see what the project looks like, check out the pdf.
+
